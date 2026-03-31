@@ -18,8 +18,6 @@ Follow the prompts — enter the requested word type (e.g. a noun, a color, a nu
 After all inputs are collected, your unique story will be printed on screen.
 
 
-Example Session Choose a story template: 1.Hospital Story 2.Camping Story 3.Castle Story
-
 
 📁 Project Structure mad-libs/ main.py
 README.md
