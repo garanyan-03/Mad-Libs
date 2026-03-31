@@ -10,8 +10,11 @@ Steps bash# 1. Clone the repository git clone cd mad-libs
 python main.py
 
 The program will show you a menu with 3 template options.
+
 Type 1 and press Enter to select the Hospital Stay template.
+
 Follow the prompts — enter the requested word type (e.g. a noun, a color, a number).
+
 After all inputs are collected, your unique story will be printed on screen.
 
 
